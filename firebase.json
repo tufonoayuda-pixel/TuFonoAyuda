@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "fonoayuda",
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
